@@ -1,0 +1,6 @@
+,Accuracy,Precision,Recall,F1,ROC-AUC,PR-AUC
+Árbol de decisión,0.817,0.65,0.377,0.477,0.775,0.545
+Random Forest,0.82,0.667,0.375,0.48,0.78,0.564
+XGBoost 'de curso' (5 árboles),0.779,0.0,0.0,0.0,0.777,0.555
+XGBoost early stopping,0.822,0.671,0.378,0.484,0.79,0.576
+XGBoost monotónico,0.821,0.672,0.376,0.482,0.789,0.574
