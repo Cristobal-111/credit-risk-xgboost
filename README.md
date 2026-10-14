@@ -160,6 +160,8 @@ En Google Colab: [![Open In Colab](https://colab.research.google.com/assets/cola
 1. 📉 [Fuga de clientes en telecomunicaciones · Árbol de decisión](https://github.com/Cristobal-111/churn-prediction-telco)
 2. 🏨 [Cancelaciones hoteleras · Random Forest](https://github.com/Cristobal-111/hotel-cancellation-random-forest)
 3. 💳 **Riesgo de crédito · XGBoost** (este repositorio)
+4. 🏥 [Inasistencia a citas médicas · Proyecto integral PACE](https://github.com/Cristobal-111/medical-no-show-pace)
+5. 👥 [People Analytics: rotación laboral · Regresión logística interpretable](https://github.com/Cristobal-111/hr-attrition-people-analytics)
 
 ## 👤 Autor
 
